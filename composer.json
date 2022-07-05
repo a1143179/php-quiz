@@ -1,0 +1,11 @@
+{
+    "name": "php-quiz/php-quiz",
+    "autoload": {
+        "psr-4": {
+            "": ["src/","tests/"]
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
